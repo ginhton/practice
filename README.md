@@ -1,5 +1,5 @@
 # practice
 practice code for Unix Network Programming course 
 
-author: ---
+author: XXX
 student number: ----
